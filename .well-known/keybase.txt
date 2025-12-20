@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/chris18890
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://belfasttechservices.uk
+  * I am chris18890 (https://keybase.io/chris18890) on keybase.
+  * I have a public key with fingerprint D233 2D19 D8C9 074B 668D  48F4 DEF0 38F7 16F3 710F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e65ce15423d53a9204478201aeecd0b219f75b9dd9531f0d768d1187f84751f00a",
+      "fingerprint": "d2332d19d8c9074b668d48f4def038f716f3710f",
+      "host": "keybase.io",
+      "key_id": "def038f716f3710f",
+      "kid": "01017936ef57254493edc06c093be9103458636200c8b8d4992021c849de789ba4c80a",
+      "uid": "878ea2116693b11464cfcc6855229619",
+      "username": "chris18890"
+    },
+    "service": {
+      "hostname": "belfasttechservices.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1766195680,
+  "expire_in": 157680000,
+  "prev": "3e381040cac60c4c8312d06b4067a1a9d6087e34be0d1d008f8484f8ac7a0121",
+  "seqno": 85,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.17
+Comment: https://keybase.io/crypto
+
+yMNyAnicbZJ9TJVVHMe5CLlLIVczB1tAPlkmEZ3zvJ7nhiYmFhAsRDZwwOV5OQ/3
+EbjvvIdOHK6yiJg0JKFGZExG00RdAiomMguUGRoDTMRaU7ZSJIgXq3MZ/tf55+z8
+9vl+z/d3zu9i4DKfAMMv99HMmofOIMOP3c0FPvo2w1gZJdvVEspcRuXixQ3nqdjt
+seTqKmWmAKQB5jkFQ46lGZVjJJEGLCsgGkAJY0UFMg1FTeBkUVVFjoEaUAUeqRAi
+QUOswJECkKhIStNtOdjlcOk2D7FVaYahVSiqSBGBwMo8kbBIY1WsAQZpAuQ1RoBA
+I0Kr3e1VkHCy5MZRup3UyMGyGO9/+Me5ARREhscaJ9Acy4oMVhXAK0BkZCxCwLAc
+4hmeBkBBMrlbJG3RUEGsqGIBibLEKmgxd8GiHRIQlmgIeZ7oIWR5VtEUhUccR9Mi
+D0Uv6MYum5SPCa1YXbobIiQCqjySIvVCXcHep/X2ssTIOE+T3B4PVqxLgDuqIJf4
+OFx2j12x5xHG6vE43Gavh6fE4RUVYdmyRFtk3aaSNyWKQuxy63YbZYaEVDy61x8K
+PInF8QhEUrjYobuwRfcSHPkcQJb3HlxILBnMIAhYoEgKDxTSNQNpFfAyC3hBgpKo
+8gAJmGFlDFSoAoDIryJWQ5IiSGQ4IOVt0GmzU2bEkZxSDvF06zk2yVPgwlT5he4M
+Px9DgM8T/r7eYfMJMJoej2BjnsnndNbnq68W//DUQwfq7+rf3D7ZELo+rX/4z/Rz
+IY2x746smEs/u31i6lJt0rm6BtS//nCwwfJSfoJasZEb2HJ2cmN3UPxQ9u3ZoeB7
+N0ctpdbm8ojbL39c+8rJV42t7f3mpotXYlNOnymw3zyVuaWD+7307ozmuMJ1RNwb
+6Hn68k+7wl7cGnMwOTp9w8iJfJzw5Y6WyOx3/vZL+TBq297vyqeV/RMrzu/srG5J
+601MS1po6854oXdHfdj11PTMZFy7pu7JXTdMyd0fPbc5vHllXEKrM2423HS+Uncu
+0HvQIV4xpg52bor8d585JNQZWJeYeX22sv1R1alV0fXv3VmXmjiiHMep4xmf9HzD
+nNy90Msc6fs5voPNaRVKhy/PdkSY9upDm+Lum41HVwSJK9+cV3d25U8O2JIzDcf5
+hZS6uaK3bX9NTz+aYvqc6I9DVS0hbQdvtfVGx/8a8/6RxqP6F9/+dox6o7N8/4X4
+A9mxI1nFw3NbJ9l4V9n8tb4PBj7zW1a1alhYPnN43uArFoVS4zcmfJuoO8Xbl79V
+4TkBk8JGB5+99lVrrjPTdPdTZaEyJpevHyuxTlU/qGlwfh2/7vVq/xrjJes/Tbd2
++x7YZ+kZC35+1GRkAmtaz4RJ7tKM749lbfAXWqrXPiMz4y3heVfjBg1FE8a42eTV
+810Phv0ag16bj1y7J7AC/AdWqcCd
+=Gxd9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chris18890
+
+==================================================================
